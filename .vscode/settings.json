@@ -1,0 +1,20 @@
+{
+    "files.encoding": "gbk",
+    "files.associations": {
+        "*.conf": "nginx",
+        "*.wxml": "wxml",
+        "*.wxss": "css",
+        "*.cjson": "jsonc",
+        "*.wxs": "javascript",
+        "cstdlib": "cpp",
+        "cstdio": "cpp",
+        "type_traits": "cpp",
+        "new": "cpp",
+        "typeinfo": "cpp",
+        "memory": "cpp",
+        "string": "cpp",
+        "cstdint": "cpp",
+        "bmp.h": "c",
+        "dht11.h": "c"
+    }
+}
